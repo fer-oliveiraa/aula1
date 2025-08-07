@@ -1,0 +1,23 @@
+{
+  "name": "aula1",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000u\u0000l\u0000a\u00001\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fer-oliveiraa/aula1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fer-oliveiraa/aula1/issues"
+  },
+  "homepage": "https://github.com/fer-oliveiraa/aula1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
